@@ -1,2 +1,4 @@
 # -vigilant-system
-Learniing Git
+Learning Git
+
+I'm adding stuff
